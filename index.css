@@ -86,6 +86,9 @@ li {
 }
 .dev {
     height: 400px;
+    /* border: 2px solid red; */
+    /* margin-bottom: 100px; */
+    margin-top: -50px;
 }
 .wrapper {
     display: flex;
