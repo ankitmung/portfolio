@@ -545,6 +545,13 @@ a.btn:active{
         text-align: center;
     }
 }
+
+.anks>img:hover{
+  width: 100px;
+  /* height: 100px; */
+  padding: 2px;
+  border: 2px solid #dd9a05;
+}
 .skillImgs{
     display: flex;
     gap: 10px;
